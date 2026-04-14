@@ -17,4 +17,4 @@ Deployment
 
 ## How to Contribute
 
-cr 2026
+cr 2026 Al rights reserved
