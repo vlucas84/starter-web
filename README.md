@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project ...
-Adding new line
+Adding new line, then more changes
 
 ## Introduction
 
